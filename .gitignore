@@ -1,0 +1,7 @@
+# .gitignore help prevent us from accidentally adding things we don't want to add
+
+node_modules
+
+*~
+
+.DS_Store

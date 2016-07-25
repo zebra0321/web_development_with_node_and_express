@@ -1,0 +1,19 @@
+{
+  "name": "meadowlark_travel_website",
+  "version": "1.0.0",
+  "description": "This is a sample program - A fictional website for Meadowlark Travel, a company offering services for people visiting the great state of Oregon",
+  "main": "meadowlark.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4",
+    "express3-handlebars": "^0.5.2"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3"
+  }
+}
